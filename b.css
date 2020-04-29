@@ -1,0 +1,24 @@
+body{
+background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('81.jpg');
+background-size: cover;
+background-position: center;
+font-family: sans-serif;
+}
+.form-group label,legend{
+	text-align: center;
+	color: white;
+}
+.book h1{
+	color: white;
+}
+.form-group input[type="submit"]
+{
+width: 15%;
+border: none;
+outline: none;
+height: 40px;
+background: #1c8adb;
+color: #fff;
+font-size: 18px;
+border-radius: 20px;
+}
